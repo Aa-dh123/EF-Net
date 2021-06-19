@@ -1,2 +1,2 @@
 # EF-Net
-The code and data for paper: TARGETED ASPECT-BASED MULTIMODAL SENTIMENT ANALYSIS: AN ATTENTION CAPSULE EXTRACTION AND MULTI-HEAD FUSION NETWORK
+The code and data for paper: 《Targeted aspect-based multimodel sentiment analysis: an attention capsule extraction and multi-head fusion network》
